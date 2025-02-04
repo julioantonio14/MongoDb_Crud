@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# MongoDb_Crud
+Basic Structure of a Crud using Next.js and Mongo Db
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -42,3 +46,4 @@ follow me and help me growing in my career.
 - [GitHub ](https://github.com/julioantonio14/): julioantonio14
 - [Linkedin ](https://www.linkedin.com/in/julioantonio14/): julioantonio14
 - [Instagram ](https://www.instagram.com/julioantoniio_14/): julioantoniio_14
+=======
